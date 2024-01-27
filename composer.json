@@ -1,11 +1,11 @@
 {
     "name": "drupal/recommended-project",
-    "description": "NTT Data boilerplate for contribution events.",
+    "description": "D10White",
     "type": "project",
     "authors": [
         {
-            "name": "Pablo Alberto Grande García",
-            "email": "pablograndegarcia@gmail.com"
+            "name": "Francisco Adame Muñoz",
+            "email": "frnadame@gmail.com"
         }
     ],
     "license": "GPL-2.0-or-later",
